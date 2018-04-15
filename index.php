@@ -66,7 +66,7 @@
 
     <div class="ui small circular rotate left reveal image imgcenter">
         <img src="imagenes/heroku.png" class="visible content ">
-        <img src="imagenes/escanear0002.jpg" class="hidden content">
+        <img src="imagenes/escanear0001.jpg" class="hidden content">
     </div>
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 
