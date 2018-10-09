@@ -87,22 +87,7 @@
 <table class="ui inverted grey celled">
     <thead>
         <tr>
-            <!--fronted 8) desplegar datos en html-->
-            <th>empleado_id</th>
-            <th>primer_nombre</th>
-            <th>segundo_nombre</th>
-            <th>correo</th>
-            <th>numero_telefon</th>
-            <th>fecha_ingreso</th>
-            <th>trabajo_id</th>
-            <th>salario</th>
-            <th>jefe_id</th>
-            <th>departamento_id</th>
-            <th>sexo</th>
-            <th>genero</th>
-            <th>estado_civil</th>
-            
-            <th colspan="2" >Action</th>
+           Proyecto PPYL
         </tr>
 
     </thead>
